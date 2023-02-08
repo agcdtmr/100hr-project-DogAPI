@@ -1,1 +1,1 @@
-# 100hr-project-APIs
+# 100hr-project-DogAPI
