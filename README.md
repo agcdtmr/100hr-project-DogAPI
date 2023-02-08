@@ -6,4 +6,4 @@ Check cute dog image [here](https://agcdtmr.github.io/100hr-project-DogAPI/)
 
 ## Learnings:
 - How to link css and js (with defer) file 
-- How to use getElementById, addEventListener, async await, fetch api, then and try/catch
+- How to use .getElementById, .addEventListener, async await, fetch api, .then and try/catch
