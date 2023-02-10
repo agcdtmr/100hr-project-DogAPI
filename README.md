@@ -5,5 +5,5 @@ These 100 hour projects are part of the freelance work as Full Stack Software En
 Check cute dog image [here](https://agcdtmr.github.io/100hr-project-DogAPI/)
 
 ## Learnings:
-- How to link css and js (with defer) file 
+- How to link css and js (with defer) file to html file 
 - How to use .getElementById, .addEventListener, async await, fetch api, .then and try/catch
