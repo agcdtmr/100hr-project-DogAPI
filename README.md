@@ -9,3 +9,4 @@ Check my other [100hr projects](https://github.com/agcdtmr/100hr-project-others)
 ## Learnings:
 - How to link css and js (with defer) file to html file 
 - How to use .getElementById, .addEventListener, async await, fetch api, .then and try/catch
+- Fetch returns a promise
